@@ -1,1 +1,3 @@
-# Web-Dev-Portfolio
+- <b>Front End (Java Script & React.JS)</b>
+  - [Calculator](https://github.com/joshkoo1988/calculator)
+  - [Weather App](https://github.com/joshkoo1988/weather-app)
